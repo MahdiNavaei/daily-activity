@@ -1,0 +1,11 @@
+{
+  "project": "Daily Activity Tracker",
+  "version": "1.0.0",
+  "author": "Mahdi Navaei",
+  "description": "AI/ML Engineering daily activity tracking system",
+  "settings": {
+    "auto_update": true,
+    "timezone": "Asia/Tehran"
+  }
+}
+

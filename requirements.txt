@@ -1,0 +1,6 @@
+# Python dependencies for daily activity tracker
+# No external dependencies required - uses only standard library
+
+# Optional: For Persian date conversion (if needed in future)
+# jdatetime>=4.1.0
+

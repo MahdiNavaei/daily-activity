@@ -1,0 +1,79 @@
+name: Daily Engineering Activity
+
+on:
+  schedule:
+    # هر روز ساعت 9 صبح UTC (12:30 ظهر به وقت ایران)
+    - cron: '0 9 * * *'
+  workflow_dispatch: # امکان اجرای دستی
+
+jobs:
+  update-and-commit:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Update daily notes and files
+      run: |
+        python update_daily.py
+    
+    - name: Generate commit message
+      id: commit_msg
+      run: |
+        # Generate diverse commit messages
+        DATE=$(date +'%Y-%m-%d')
+        DAY=$(date +'%A')
+        
+        # Random commit message style
+        RAND=$((RANDOM % 10))
+        
+        case $RAND in
+          0|1)
+            MSG="📝 Update daily engineering log - $DATE"
+            ;;
+          2|3)
+            MSG="🔧 Daily ML/AI engineering activities - $DATE"
+            ;;
+          4|5)
+            MSG="✨ Update project progress log - $DATE"
+            ;;
+          6)
+            MSG="🚀 Engineering activities update - $DATE"
+            ;;
+          7)
+            MSG="📊 Daily development log - $DATE"
+            ;;
+          8)
+            MSG="⚡ Update engineering notes - $DATE"
+            ;;
+          9)
+            MSG="🎯 Daily progress update - $DATE"
+            ;;
+        esac
+        
+        echo "message=$MSG" >> $GITHUB_OUTPUT
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "mahdinavaei1367@gmail.com"
+        git config --local user.name "Mahdi Navaei"
+        
+        # Add all modified files
+        git add -A
+        
+        # Only commit if there are changes
+        if ! git diff --staged --quiet; then
+          git commit -m "${{ steps.commit_msg.outputs.message }}"
+          git push
+          echo "✓ Changes committed and pushed successfully"
+        else
+          echo "ℹ No changes to commit"
+        fi
