@@ -1,11 +1,9 @@
 {
-  "project": "Daily Activity Tracker",
+  "project": "Engineering Daily Log",
   "version": "1.0.0",
   "author": "Mahdi Navaei",
-  "description": "AI/ML Engineering daily activity tracking system",
+  "description": "Personal daily activity tracking for AI/ML engineering work",
   "settings": {
-    "auto_update": true,
     "timezone": "Asia/Tehran"
   }
 }
-

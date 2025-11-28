@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Daily Activity Tracker for AI/ML Engineering Work
-Automatically generates realistic daily entries based on AI/ML engineering activities
+Daily activity log helper for tracking engineering work
 """
 
 import os
@@ -11,11 +10,7 @@ import random
 from datetime import datetime, timedelta
 from pathlib import Path
 
-# ============================================================================
-# AI/ML Engineering Activities - Based on Senior AI/ML Engineer Profile
-# ============================================================================
-
-# Core ML/AI Development Activities
+# Engineering activities
 ML_DEVELOPMENT = [
     "Fine-tuning LLaMA model for domain-specific tasks",
     "Optimizing transformer inference pipeline for lower latency",
@@ -39,7 +34,7 @@ ML_DEVELOPMENT = [
     "Creating data validation pipeline for ML features"
 ]
 
-# Data Engineering & Analytics
+# Data engineering
 DATA_ENGINEERING = [
     "Optimizing SQL queries for large-scale data processing",
     "Building ETL pipeline for feature store",
@@ -53,7 +48,7 @@ DATA_ENGINEERING = [
     "Implementing data versioning with DVC"
 ]
 
-# Research & Experimentation
+# Research
 RESEARCH = [
     "Experimenting with new transformer architectures",
     "Benchmarking different embedding models for semantic search",
@@ -67,7 +62,7 @@ RESEARCH = [
     "Researching causal inference methods for recommendation systems"
 ]
 
-# Code Quality & Infrastructure
+# Infrastructure
 INFRASTRUCTURE = [
     "Refactoring code for better modularity and maintainability",
     "Adding comprehensive unit tests for ML models",
@@ -81,7 +76,7 @@ INFRASTRUCTURE = [
     "Improving code documentation and type hints"
 ]
 
-# Project-Specific Activities (based on resume projects)
+# Project activities
 PROJECT_SPECIFIC = [
     "Working on DriveShield ADAS collision prediction improvements",
     "Enhancing hybrid recommender system with new features",
@@ -95,7 +90,7 @@ PROJECT_SPECIFIC = [
     "Improving model monitoring and alerting system"
 ]
 
-# Code Review & Collaboration
+# Collaboration
 COLLABORATION = [
     "Code review for ML model implementations",
     "Mentoring junior data scientists on best practices",
@@ -107,9 +102,7 @@ COLLABORATION = [
     "Coordinating with DevOps on deployment strategies"
 ]
 
-# ============================================================================
-# Technical Details & Metrics (for realistic entries)
-# ============================================================================
+# Technical details
 
 TECHNICAL_DETAILS = [
     "achieved 2.3% improvement in model accuracy",
@@ -137,9 +130,7 @@ TECH_STACK = [
     "GitHub Actions"
 ]
 
-# ============================================================================
-# Helper Functions
-# ============================================================================
+# Helper functions
 
 def get_persian_date():
     """Convert date to Persian format"""
