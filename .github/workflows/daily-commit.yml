@@ -9,12 +9,15 @@ on:
 jobs:
   update-and-commit:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # برای commit و push
     
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0  # برای دسترسی به history
     
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -72,7 +75,7 @@ jobs:
         # Only commit if there are changes
         if ! git diff --staged --quiet; then
           git commit -m "${{ steps.commit_msg.outputs.message }}"
-          git push
+          git push origin main
           echo "✓ Changes committed and pushed successfully"
         else
           echo "ℹ No changes to commit"
