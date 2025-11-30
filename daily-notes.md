@@ -30,3 +30,19 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Notes:** Good progress on the optimization task.
 
 ---
+
+## 2025/11/30 (بهمن) - یکشنبه (Sunday)
+
+**Time:** 14:15
+
+**Activities:**
+
+1. Creating data pipeline for real-time streaming
+2. Developing time-series forecasting model using LSTM
+3. Training collaborative filtering model for recommendation system
+
+**Results:** increased throughput by 25%
+
+**Tech:** Python (PyTorch, TensorFlow)
+
+---
