@@ -46,3 +46,18 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Tech:** Python (PyTorch, TensorFlow)
 
 ---
+
+## 2025/12/01 (اسفند) - دوشنبه (Monday)
+
+**Time:** 12:30
+
+**Activities:**
+
+1. Evaluating model performance on new datasets
+2. Optimizing GPU inference with TensorRT
+
+**Results:** reduced false positive rate by 3%
+
+**Tech:** Kubernetes
+
+---
