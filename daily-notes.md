@@ -61,3 +61,14 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Tech:** Kubernetes
 
 ---
+
+## 2025/12/02 (اسفند) - سه‌شنبه (Tuesday)
+
+**Time:** 16:30
+
+**Activities:**
+
+1. Developing real-time feature engineering pipeline
+2. Creating prompt engineering templates for LLM applications
+
+---
