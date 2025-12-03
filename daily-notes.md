@@ -72,3 +72,18 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 2. Creating prompt engineering templates for LLM applications
 
 ---
+
+## 2025/12/03 (اسفند) - چهارشنبه (Wednesday)
+
+**Time:** 12:15
+
+**Activities:**
+
+1. Implementing model monitoring and drift detection
+2. Implementing new evaluation metrics for recommendation system
+
+**Results:** reduced model size by 18%
+
+**Notes:** Need to investigate performance bottleneck further.
+
+---
