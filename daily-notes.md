@@ -87,3 +87,18 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Notes:** Need to investigate performance bottleneck further.
 
 ---
+
+## 2025/12/04 (اسفند) - پنج‌شنبه (Thursday)
+
+**Time:** 15:45
+
+**Activities:**
+
+1. Improving code documentation and type hints
+2. Building FastAPI microservice for model serving
+
+**Results:** optimized query response time by 40%
+
+**Notes:** Need to investigate performance bottleneck further.
+
+---
