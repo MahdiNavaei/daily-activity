@@ -102,3 +102,15 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Notes:** Need to investigate performance bottleneck further.
 
 ---
+
+## 2025/12/05 (اسفند) - جمعه (Friday)
+
+**Time:** 15:45
+
+**Activities:**
+
+1. Optimizing real-time inference latency
+2. Building end-to-end MLOps pipeline with monitoring
+3. Improving error handling and logging in production services
+
+---
