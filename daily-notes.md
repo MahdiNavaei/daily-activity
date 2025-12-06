@@ -114,3 +114,16 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 3. Improving error handling and logging in production services
 
 ---
+
+## 2025/12/06 (اسفند) - شنبه (Saturday)
+
+**Time:** 15:45
+
+**Activities:**
+
+1. Researching causal inference methods for recommendation systems
+2. Implementing A/B testing framework for model evaluation
+
+**Notes:** Need to investigate performance bottleneck further.
+
+---
