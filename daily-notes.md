@@ -152,3 +152,18 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Notes:** Identified some areas for further optimization.
 
 ---
+
+## 2025/12/09 (اسفند) - سه‌شنبه (Tuesday)
+
+**Time:** 10:30
+
+**Activities:**
+
+1. Setting up CI/CD pipeline for automated testing
+2. Setting up CI/CD pipeline for automated testing
+
+**Tech:** Python (PyTorch, TensorFlow)
+
+**Notes:** Will continue with deployment preparation tomorrow.
+
+---
