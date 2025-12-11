@@ -182,3 +182,19 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Notes:** Collaborated with team on architecture decisions.
 
 ---
+
+## 2025/12/11 (اسفند) - پنج‌شنبه (Thursday)
+
+**Time:** 14:15
+
+**Activities:**
+
+1. Optimizing GPU inference with TensorRT
+
+**Results:** reduced model size by 18%
+
+**Tech:** MLflow
+
+**Notes:** Planning next iteration improvements.
+
+---
