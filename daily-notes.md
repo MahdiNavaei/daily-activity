@@ -253,3 +253,16 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Tech:** PostgreSQL
 
 ---
+
+## 2025/12/16 (اسفند) - سه‌شنبه (Tuesday)
+
+**Time:** 09:00
+
+**Activities:**
+
+1. Implementing data quality checks and validation
+2. Implementing A/B testing framework for model evaluation
+
+**Notes:** Need to investigate performance bottleneck further.
+
+---
