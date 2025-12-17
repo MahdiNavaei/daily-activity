@@ -266,3 +266,19 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Notes:** Need to investigate performance bottleneck further.
 
 ---
+
+## 2025/12/17 (اسفند) - چهارشنبه (Wednesday)
+
+**Time:** 16:00
+
+**Activities:**
+
+1. Implementing RAG architecture with hybrid retrieval (vector + BM25)
+2. Improving model monitoring and alerting system
+3. Experimenting with new transformer architectures
+
+**Tech:** Docker
+
+**Notes:** Planning next iteration improvements.
+
+---
