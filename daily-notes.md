@@ -383,3 +383,15 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Tech:** PostgreSQL
 
 ---
+
+## 2025/12/25 (اسفند) - پنج‌شنبه (Thursday)
+
+**Time:** 09:15
+
+**Activities:**
+
+1. Setting up monitoring dashboards for model metrics
+2. Documenting ML system design decisions
+3. Fine-tuning agentic AI workflows for better root-cause analysis
+
+---
