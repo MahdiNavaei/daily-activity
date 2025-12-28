@@ -424,3 +424,20 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Notes:** Need to investigate performance bottleneck further.
 
 ---
+
+## 2025/12/28 (اسفند) - یکشنبه (Sunday)
+
+**Time:** 18:15
+
+**Activities:**
+
+1. Building end-to-end MLOps pipeline with monitoring
+2. Developing automated retraining pipeline
+3. Reviewing and optimizing database query performance
+4. Comparing different RAG retrieval strategies
+
+**Tech:** Kubernetes
+
+**Notes:** Model performance looks promising.
+
+---
