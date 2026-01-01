@@ -477,3 +477,19 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Notes:** Planning next iteration improvements.
 
 ---
+
+## 2026/01/01 (فروردین) - پنج‌شنبه (Thursday)
+
+**Time:** 09:30
+
+**Activities:**
+
+1. Creating prompt engineering templates for LLM applications
+2. Optimizing batch inference for production workloads
+3. Refactoring code for better modularity and maintainability
+
+**Tech:** Docker
+
+**Notes:** Ready for code review and testing.
+
+---
