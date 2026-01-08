@@ -571,3 +571,16 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 2. Creating data pipeline for real-time streaming
 
 ---
+
+## 2026/01/08 (فروردین) - پنج‌شنبه (Thursday)
+
+**Time:** 10:15
+
+**Activities:**
+
+1. Creating data pipeline for real-time streaming
+2. Benchmarking different embedding models for semantic search
+3. Comparing different RAG retrieval strategies
+4. Implementing model explainability using SHAP values
+
+---
