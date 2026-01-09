@@ -584,3 +584,17 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 4. Implementing model explainability using SHAP values
 
 ---
+
+## 2026/01/09 (فروردین) - جمعه (Friday)
+
+**Time:** 11:30
+
+**Activities:**
+
+1. Refactoring code for better modularity and maintainability
+2. Comparing different RAG retrieval strategies
+3. Analyzing model performance metrics and identifying bottlenecks
+
+**Tech:** Python (PyTorch, TensorFlow)
+
+---
