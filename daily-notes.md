@@ -648,3 +648,15 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 1. Setting up monitoring dashboards for model metrics
 
 ---
+
+## 2026/01/14 (فروردین) - چهارشنبه (Wednesday)
+
+**Time:** 12:30
+
+**Activities:**
+
+1. Optimizing GPU inference with TensorRT
+
+**Results:** reduced model size by 18%
+
+---
