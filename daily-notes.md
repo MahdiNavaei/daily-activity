@@ -753,3 +753,17 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Tech:** Python (PyTorch, TensorFlow)
 
 ---
+
+## 2026/01/22 (فروردین) - پنج‌شنبه (Thursday)
+
+**Time:** 16:30
+
+**Activities:**
+
+1. Creating data pipeline for real-time streaming
+2. Refactoring code for better modularity and maintainability
+3. Building data preprocessing pipeline with Pandas
+
+**Tech:** MLflow
+
+---
