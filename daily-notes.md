@@ -817,3 +817,18 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 4. Creating data pipeline for real-time streaming
 
 ---
+
+## 2026/01/27 (فروردین) - سه‌شنبه (Tuesday)
+
+**Time:** 10:30
+
+**Activities:**
+
+1. Creating prompt engineering templates for LLM applications
+2. Participating in technical architecture discussions
+
+**Results:** reduced model size by 18%
+
+**Tech:** Docker
+
+---
