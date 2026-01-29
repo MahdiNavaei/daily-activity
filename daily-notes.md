@@ -849,3 +849,19 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Tech:** Redis
 
 ---
+
+## 2026/01/29 (فروردین) - پنج‌شنبه (Thursday)
+
+**Time:** 16:00
+
+**Activities:**
+
+1. Benchmarking different embedding models for semantic search
+2. Experimenting with new transformer architectures
+3. Researching causal inference methods for recommendation systems
+
+**Results:** improved AUC-ROC by 0.02
+
+**Tech:** Python (PyTorch, TensorFlow)
+
+---
