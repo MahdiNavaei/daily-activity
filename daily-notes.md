@@ -865,3 +865,18 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Tech:** Python (PyTorch, TensorFlow)
 
 ---
+
+## 2026/01/30 (فروردین) - جمعه (Friday)
+
+**Time:** 13:30
+
+**Activities:**
+
+1. Researching latest papers on LLM fine-tuning techniques
+2. Code review for ML model implementations
+
+**Results:** reduced model size by 18%
+
+**Tech:** Docker
+
+---
