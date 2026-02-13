@@ -1050,3 +1050,14 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Tech:** PostgreSQL
 
 ---
+
+## 2026/02/13 (اردیبهشت) - جمعه (Friday)
+
+**Time:** 09:00
+
+**Activities:**
+
+1. Researching causal inference methods for recommendation systems
+2. Experimenting with few-shot learning approaches
+
+---
