@@ -1085,3 +1085,17 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 3. Implementing data versioning with DVC
 
 ---
+
+## 2026/02/16 (اردیبهشت) - دوشنبه (Monday)
+
+**Time:** 15:45
+
+**Activities:**
+
+1. Reviewing pull requests and providing feedback
+2. Fine-tuning LLaMA model for domain-specific tasks
+3. Implementing RAG architecture with hybrid retrieval (vector + BM25)
+
+**Tech:** Redis
+
+---
