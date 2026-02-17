@@ -1099,3 +1099,18 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Tech:** Redis
 
 ---
+
+## 2026/02/17 (اردیبهشت) - سه‌شنبه (Tuesday)
+
+**Time:** 09:30
+
+**Activities:**
+
+1. Documenting ML system design decisions
+2. Developing time-series forecasting model using LSTM
+3. Implementing RAG architecture with hybrid retrieval (vector + BM25)
+4. Collaborating with product team on feature requirements
+
+**Tech:** MongoDB
+
+---
