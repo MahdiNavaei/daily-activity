@@ -1224,3 +1224,17 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Tech:** Docker
 
 ---
+
+## 2026/02/27 (اردیبهشت) - جمعه (Friday)
+
+**Time:** 13:15
+
+**Activities:**
+
+1. Implementing A/B testing framework for model evaluation
+2. Benchmarking different embedding models for semantic search
+3. Comparing different RAG retrieval strategies
+
+**Results:** improved recall@20 by 0.12
+
+---
