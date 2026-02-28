@@ -1238,3 +1238,19 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Results:** improved recall@20 by 0.12
 
 ---
+
+## 2026/02/28 (اردیبهشت) - شنبه (Saturday)
+
+**Time:** 14:00
+
+**Activities:**
+
+1. Testing new prompt engineering techniques
+2. Building FastAPI microservice for model serving
+3. Researching causal inference methods for recommendation systems
+
+**Tech:** Docker
+
+**Notes:** Collaborated with team on architecture decisions.
+
+---
