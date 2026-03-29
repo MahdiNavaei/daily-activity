@@ -1623,3 +1623,16 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Results:** reduced inference latency by 15ms
 
 ---
+
+## 2026/03/29 (خرداد) - یکشنبه (Sunday)
+
+**Time:** 15:30
+
+**Activities:**
+
+1. Fine-tuning LLaMA model for domain-specific tasks
+2. Creating data pipeline for real-time streaming
+
+**Tech:** Vector DB (Pinecone/Weaviate)
+
+---
