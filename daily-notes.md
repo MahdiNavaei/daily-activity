@@ -1636,3 +1636,15 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Tech:** Vector DB (Pinecone/Weaviate)
 
 ---
+
+## 2026/03/30 (خرداد) - دوشنبه (Monday)
+
+**Time:** 12:15
+
+**Activities:**
+
+1. Developing time-series forecasting model using LSTM
+2. Researching causal inference methods for recommendation systems
+3. Implementing A/B testing framework for model evaluation
+
+---
