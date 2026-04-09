@@ -1770,3 +1770,17 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 3. Building ETL pipeline for feature store
 
 ---
+
+## 2026/04/09 (تیر) - پنج‌شنبه (Thursday)
+
+**Time:** 11:30
+
+**Activities:**
+
+1. Building FastAPI microservice for model serving
+
+**Results:** increased throughput by 25%
+
+**Tech:** Vector DB (Pinecone/Weaviate)
+
+---
