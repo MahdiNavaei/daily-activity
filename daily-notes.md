@@ -1784,3 +1784,16 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Tech:** Vector DB (Pinecone/Weaviate)
 
 ---
+
+## 2026/04/10 (تیر) - جمعه (Friday)
+
+**Time:** 17:45
+
+**Activities:**
+
+1. Adding comprehensive unit tests for ML models
+2. Comparing different RAG retrieval strategies
+3. Researching causal inference methods for recommendation systems
+4. Optimizing GPU inference with TensorRT
+
+---
