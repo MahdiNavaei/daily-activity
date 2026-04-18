@@ -1891,3 +1891,17 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 3. Enhancing hybrid recommender system with new features
 
 ---
+
+## 2026/04/18 (تیر) - شنبه (Saturday)
+
+**Time:** 10:30
+
+**Activities:**
+
+1. Comparing different RAG retrieval strategies
+2. Implementing RAG architecture with hybrid retrieval (vector + BM25)
+3. Implementing data versioning with DVC
+
+**Tech:** Vector DB (Pinecone/Weaviate)
+
+---
