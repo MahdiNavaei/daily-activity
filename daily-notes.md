@@ -1905,3 +1905,18 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Tech:** Vector DB (Pinecone/Weaviate)
 
 ---
+
+## 2026/04/19 (تیر) - یکشنبه (Sunday)
+
+**Time:** 17:30
+
+**Activities:**
+
+1. Building semantic search pipeline using sentence transformers
+2. Implementing A/B testing framework for model evaluation
+3. Benchmarking model performance on production data
+4. Building FastAPI microservice for model serving
+
+**Results:** improved AUC-ROC by 0.02
+
+---
