@@ -2164,3 +2164,18 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Notes:** Will continue with deployment preparation tomorrow.
 
 ---
+
+## 2026/05/07 (مرداد) - پنج‌شنبه (Thursday)
+
+**Time:** 14:30
+
+**Activities:**
+
+1. Creating data pipeline for real-time streaming
+2. Building ETL pipeline for feature store
+3. Implementing model explainability using SHAP values
+4. Implementing RAG architecture with hybrid retrieval (vector + BM25)
+
+**Tech:** MongoDB
+
+---
