@@ -2264,3 +2264,14 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Tech:** Vector DB (Pinecone/Weaviate)
 
 ---
+
+## 2026/05/14 (مرداد) - پنج‌شنبه (Thursday)
+
+**Time:** 18:15
+
+**Activities:**
+
+1. Implementing model explainability using SHAP values
+2. Fine-tuning LLaMA model for domain-specific tasks
+
+---
