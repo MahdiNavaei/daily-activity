@@ -2275,3 +2275,16 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 2. Fine-tuning LLaMA model for domain-specific tasks
 
 ---
+
+## 2026/05/15 (مرداد) - جمعه (Friday)
+
+**Time:** 09:15
+
+**Activities:**
+
+1. Training collaborative filtering model for recommendation system
+2. Developing time-series forecasting model using LSTM
+
+**Tech:** Docker
+
+---
