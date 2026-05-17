@@ -2301,3 +2301,17 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Results:** achieved 2.3% improvement in model accuracy
 
 ---
+
+## 2026/05/17 (مرداد) - یکشنبه (Sunday)
+
+**Time:** 09:00
+
+**Activities:**
+
+1. Implementing RAG architecture with hybrid retrieval (vector + BM25)
+2. Refactoring code for better modularity and maintainability
+3. Implementing model explainability using SHAP values
+
+**Tech:** Kubernetes
+
+---
