@@ -2436,3 +2436,16 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Notes:** Model performance looks promising.
 
 ---
+
+## 2026/05/28 (مرداد) - پنج‌شنبه (Thursday)
+
+**Time:** 14:15
+
+**Activities:**
+
+1. Implementing incremental data loading strategy
+2. Building ETL pipeline for feature store
+
+**Tech:** Python (PyTorch, TensorFlow)
+
+---
