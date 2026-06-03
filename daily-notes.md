@@ -2515,3 +2515,14 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Notes:** Identified some areas for further optimization.
 
 ---
+
+## 2026/06/03 (شهریور) - چهارشنبه (Wednesday)
+
+**Time:** 12:15
+
+**Activities:**
+
+1. Analyzing model performance metrics and identifying bottlenecks
+2. Comparing different RAG retrieval strategies
+
+---
