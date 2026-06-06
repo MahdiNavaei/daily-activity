@@ -2554,3 +2554,15 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 **Notes:** Model performance looks promising.
 
 ---
+
+## 2026/06/06 (شهریور) - شنبه (Saturday)
+
+**Time:** 13:30
+
+**Activities:**
+
+1. Building end-to-end MLOps pipeline with monitoring
+2. Fine-tuning LLaMA model for domain-specific tasks
+3. Testing various hyperparameter configurations
+
+---
