@@ -2895,3 +2895,14 @@ This file contains daily engineering activities and progress notes for AI/ML pro
 2. Enhancing hybrid recommender system with new features
 
 ---
+
+## 2026/07/02 (مهر) - پنج‌شنبه (Thursday)
+
+**Time:** 13:45
+
+**Activities:**
+
+1. Building FastAPI microservice for model serving
+2. Building ETL pipeline for feature store
+
+---
